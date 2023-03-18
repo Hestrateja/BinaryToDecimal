@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cT0jHjM+CD6/UmyqqWYGKKKnwGuuuMQv5YzuhCi5Hs3/NdW8p9VCuJCrD3wwQD8Sw0H+9KUkdJY7i3l5MtpDOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec.iOS\\Bin2Dec.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alvar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

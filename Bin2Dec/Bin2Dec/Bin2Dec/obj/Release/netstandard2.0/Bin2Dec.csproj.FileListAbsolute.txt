@@ -1,0 +1,15 @@
+C:\Users\alvar\Desktop\.NET\Bin2Dec\Bin2Dec\Bin2Dec\bin\Release\netstandard2.0\Bin2Dec.deps.json
+C:\Users\alvar\Desktop\.NET\Bin2Dec\Bin2Dec\Bin2Dec\bin\Release\netstandard2.0\Bin2Dec.dll
+C:\Users\alvar\Desktop\.NET\Bin2Dec\Bin2Dec\Bin2Dec\bin\Release\netstandard2.0\Bin2Dec.pdb
+C:\Users\alvar\Desktop\.NET\Bin2Dec\Bin2Dec\Bin2Dec\obj\Release\netstandard2.0\Bin2Dec.csproj.AssemblyReference.cache
+C:\Users\alvar\Desktop\.NET\Bin2Dec\Bin2Dec\Bin2Dec\obj\Release\netstandard2.0\Bin2Dec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\Desktop\.NET\Bin2Dec\Bin2Dec\Bin2Dec\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\alvar\Desktop\.NET\Bin2Dec\Bin2Dec\Bin2Dec\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\alvar\Desktop\.NET\Bin2Dec\Bin2Dec\Bin2Dec\obj\Release\netstandard2.0\Bin2Dec.AssemblyInfoInputs.cache
+C:\Users\alvar\Desktop\.NET\Bin2Dec\Bin2Dec\Bin2Dec\obj\Release\netstandard2.0\Bin2Dec.AssemblyInfo.cs
+C:\Users\alvar\Desktop\.NET\Bin2Dec\Bin2Dec\Bin2Dec\obj\Release\netstandard2.0\Bin2Dec.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\.NET\Bin2Dec\Bin2Dec\Bin2Dec\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\alvar\Desktop\.NET\Bin2Dec\Bin2Dec\Bin2Dec\obj\Release\netstandard2.0\Bin2Dec.dll
+C:\Users\alvar\Desktop\.NET\Bin2Dec\Bin2Dec\Bin2Dec\obj\Release\netstandard2.0\refint\Bin2Dec.dll
+C:\Users\alvar\Desktop\.NET\Bin2Dec\Bin2Dec\Bin2Dec\obj\Release\netstandard2.0\Bin2Dec.pdb
+C:\Users\alvar\Desktop\.NET\Bin2Dec\Bin2Dec\Bin2Dec\obj\Release\netstandard2.0\ref\Bin2Dec.dll

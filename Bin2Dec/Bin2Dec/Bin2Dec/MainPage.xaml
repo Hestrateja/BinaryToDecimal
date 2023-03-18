@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bin2Dec.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Binary to decimal converter" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label x:Name="Instructions" Text="Enter a binary number of up to 8 digits" FontSize="Title" Padding="30,10,30,10" HorizontalOptions="Center"/>
+        <Entry x:Name="binary" Text="" Placeholder="Ex. 00001000" PlaceholderColor="Olive" MaxLength="8" HorizontalOptions="CenterAndExpand" TextChanged="Entry_TextChanged"/>
+        <Label Text="Decimal equivalent:" FontSize="16" Padding="30,0,30,0" HorizontalOptions="Center"/>
+        <Entry x:Name="decText" HorizontalOptions="CenterAndExpand" IsReadOnly="True" WidthRequest="100"/>
+    </StackLayout>
+
+</ContentPage>
