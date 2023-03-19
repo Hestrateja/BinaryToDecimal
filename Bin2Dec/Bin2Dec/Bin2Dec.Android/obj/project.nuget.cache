@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CB63Ev7KV7ULTZ/UeydKCucvJlR9TIm7WIBzLYXp4iEuWGQMAbX3qhP+ZgeVPR867OSc9fyVWnq0CrwIuOkOhg==",
+  "dgSpecHash": "fhaX/gsdse+WZIxJypv5lVOKEXLJ2cbpbVkzk0V3OmBtydPZnJP7u4lCGNx/V6AIR0ZwXGbWe82XDAgK11DWIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec.Android\\Bin2Dec.Android.csproj",
+  "projectFilePath": "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec.Android\\Bin2Dec.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alvar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\alvar\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

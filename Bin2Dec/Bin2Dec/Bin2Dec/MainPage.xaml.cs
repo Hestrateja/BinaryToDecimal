@@ -62,6 +62,7 @@ namespace Bin2Dec
                 {
                     Instructions.Text = "Please enter a valid binary number";
                     Instructions.TextColor = Color.Red;
+                    decText.Text = "ERROR";
                 }
             }
         }

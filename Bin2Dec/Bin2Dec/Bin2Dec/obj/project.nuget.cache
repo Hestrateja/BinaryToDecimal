@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AnM7FbfvmR7Q9jUtx00ihUFEOFWJDzeKijL7OZidWHGVESim4FijROR1aLRTQt21NCQVbcHjlW6SlNU05ZTs+A==",
+  "dgSpecHash": "4J4ymJJlYQSLWf3ipfaqovjb8Ht5cgJqDb2hpDMcQ67QQ5q1SnM+aa9is5uI8XYEycYr3rOc6Ihb0wKP/xW7Ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj",
+  "projectFilePath": "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alvar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\alvar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

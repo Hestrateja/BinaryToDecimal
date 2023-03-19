@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec.Android\\Bin2Dec.Android.csproj",
+      "projectUniqueName": "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec.Android\\Bin2Dec.Android.csproj",
       "projectName": "Bin2Dec.Android",
-      "projectPath": "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec.Android\\Bin2Dec.Android.csproj",
+      "projectPath": "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec.Android\\Bin2Dec.Android.csproj",
       "packagesPath": "C:\\Users\\alvar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec.Android\\obj\\",
+      "outputPath": "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj": {
-              "projectPath": "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj"
+            "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj": {
+              "projectPath": "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj"
             }
           }
         }

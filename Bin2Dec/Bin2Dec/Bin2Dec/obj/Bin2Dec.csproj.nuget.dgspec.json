@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj": {}
+    "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj": {
+    "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj",
+        "projectUniqueName": "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj",
         "projectName": "Bin2Dec",
-        "projectPath": "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj",
+        "projectPath": "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj",
         "packagesPath": "C:\\Users\\alvar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec\\obj\\",
+        "outputPath": "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

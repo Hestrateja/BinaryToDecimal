@@ -1068,11 +1068,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec.iOS\\Bin2Dec.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec.iOS\\Bin2Dec.iOS.csproj",
       "projectName": "Bin2Dec.iOS",
-      "projectPath": "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec.iOS\\Bin2Dec.iOS.csproj",
+      "projectPath": "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec.iOS\\Bin2Dec.iOS.csproj",
       "packagesPath": "C:\\Users\\alvar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec.iOS\\obj\\",
+      "outputPath": "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1093,8 +1093,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj": {
-              "projectPath": "C:\\Users\\alvar\\Desktop\\.NET\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj"
+            "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj": {
+              "projectPath": "C:\\Users\\alvar\\Desktop\\Repos\\BinaryToDecimal\\Bin2Dec\\Bin2Dec\\Bin2Dec\\Bin2Dec.csproj"
             }
           }
         }
